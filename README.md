@@ -1,2 +1,2 @@
 # Send
-[Start](https://natyv16.github.io/Send/)
+[Start](https://github.com/Natyv16/Send.git)
